@@ -63,7 +63,7 @@ yarn add @material-ui/core
 npm install @material-ui/core
 ```
 
-Next you import the objects you plan to us \(or you can import the whole library\)
+Next you import the objects you plan to use \(or you can import the whole library\)
 
 ```ruby
 # app/javascript/packs/hyperstack.js
